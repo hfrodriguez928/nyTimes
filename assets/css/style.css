@@ -1,23 +1,46 @@
+
+
 .wrapper {
-	margin: 20px;
-}
-.container-fluid {
-	background: #000080;
-	color: black;
 	margin: 50px;
+}
+.container-fluid-1 {
+	background: #293E52;
+	margin: 25px;
+	padding: 20px;
+	border-radius: 5px;
+}
+
+.container-fluid {
+	
+	color: black;
+	margin: 25px;
 }
 
 
 .panel {
-	border-color: #000080;
+	border-color: #293E52;
 
 }
+
+.panel-1 {
+	margin: 25px;
+	border-color: #293E52;
+}
 .panel-heading {
-	background: #000080;
+	background: #293E52;
 	color: white;
+}
+
+.panel-heading-2 {
+	background: #293E52;
+	color: white;
+	padding: 5px;
 }
 
 h1 {
 	color: white;
-	text-align: center
+	text-align: center;
+	font-family: 'EB Garamond', serif;
+	font-size: 100px;
 }
+
